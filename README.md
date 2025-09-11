@@ -1,7 +1,7 @@
 # IS2101 - Arithmetic Operations Assignment
 
 ## 👤 Student Details
-- **Name:** Ritisha Suresh  
+- **Name:** Ritisha Suresh Kuckian 
 - **USN:** nnm24is184  
 - **Section:** D 
 
