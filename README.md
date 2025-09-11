@@ -1,9 +1,9 @@
 # IS2101 - Arithmetic Operations Assignment
 
 ## 👤 Student Details
-- **Name:** Riti Suresh  
+- **Name:** Ritisha Suresh  
 - **USN:** nnm24is184  
-- **Section:** A  
+- **Section:** D 
 
 ## 📌 Assignment Title
 **Implement Integer Multiplication and Division Algorithms in C**
